@@ -1,0 +1,179 @@
+body{
+    background-color: rgb(49, 49, 49);
+}
+.strip1
+{
+  height: 500px;
+  width: 100%;
+  
+}
+#im1
+{
+  width: 1450px;
+  max-height: 100%;
+  margin: auto;
+  display: block;
+}
+
+#chair1{
+    
+    position: absolute;
+    right: 640px;
+    top: 95px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: lighter;
+
+}
+
+#pch{
+    
+    position: absolute;
+    right: 455px;
+    top: 130px;
+    color: rgb(170, 170, 170);
+    font-size: 0.8rem;
+    font-weight: lighter;
+
+}
+
+#s2{
+    position: absolute;
+    right: 640px;
+    top: 595px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+#ss2{
+    
+    position: absolute;
+    right: 455px;
+    top: 630px;
+    color: rgb(170, 170, 170);
+    font-size: 0.8rem;
+    font-weight: lighter;
+
+}
+
+#s3{
+    position: absolute;
+    right: 640px;
+    top: 1095px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+#ss3{
+    
+    position: absolute;
+    right: 455px;
+    top: 1130px;
+    color: rgb(170, 170, 170);
+    font-size: 0.8rem;
+    font-weight: lighter;
+
+}
+
+#s4{
+    position: absolute;
+    right: 640px;
+    top: 1595px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+#ss4{
+    
+    position: absolute;
+    right: 455px;
+    top: 1630px;
+    color: rgb(170, 170, 170);
+    font-size: 0.8rem;
+    font-weight: lighter;
+
+}
+
+#s5{
+    position: absolute;
+    right: 640px;
+    top: 2095px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+#ss5{
+    
+    position: absolute;
+    right: 455px;
+    top: 2130px;
+    color: rgb(170, 170, 170);
+    font-size: 0.8rem;
+    font-weight: lighter;
+
+}
+
+
+#s6{
+    position: absolute;
+    right: 640px;
+    top: 2595px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+#ss6{
+    
+    position: absolute;
+    right: 455px;
+    top: 2630px;
+    color: rgb(170, 170, 170);
+    font-size: 0.8rem;
+    font-weight: lighter;
+
+}
+
+#s7{
+    position: absolute;
+    right: 640px;
+    top: 3095px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+#ss7{
+    
+    position: absolute;
+    right: 455px;
+    top: 3130px;
+    color: rgb(170, 170, 170);
+    font-size: 0.8rem;
+    font-weight: lighter;
+
+}
+
+#s8{
+    position: absolute;
+    right: 640px;
+    top: 3595px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+#ss8{
+    
+    position: absolute;
+    right: 455px;
+    top: 3630px;
+    color: rgb(170, 170, 170);
+    font-size: 0.8rem;
+    font-weight: lighter;
+
+}
