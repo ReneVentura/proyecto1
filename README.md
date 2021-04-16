@@ -10,5 +10,7 @@ contenido: se usaron:
                   javascript
 instalacion: para la instalacion local empezar con el comando npm init -y en la ubicacion del proyecto, desde la consola
              seguido utilizar de guia el archivo dependencias.txt
+             
+uso: para mejor experiencia tener el zoom de su navegador a 90% ya que el sitio no esta optimizado
 
 
